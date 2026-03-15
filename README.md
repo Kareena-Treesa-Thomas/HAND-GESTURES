@@ -59,7 +59,7 @@ A window will open displaying your webcam feed.
 
  ## 🎬 Demo
 
-![Hand Gesture Demo](demo.gif)
+![Hand Gesture Demo](img hand-gesture.jpg)
 
 ## 🤌 Gestures
 
