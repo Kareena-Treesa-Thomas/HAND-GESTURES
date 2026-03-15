@@ -58,7 +58,7 @@ A window will open displaying your webcam feed.
 - Press **q** to quit
 
  ## 🎬 Demo
-img vibe coding.jpeg
+ vibe coding.jpeg
 ![Hand Gesture Demo](img hand-gesture.jpeg)
 
 ## 🤌 Gestures
