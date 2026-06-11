@@ -12,7 +12,6 @@
 
 ## 🎬 Demo
 
-![Vibe Coding Demo](vibe-coding.jpeg)
 ![Hand Gesture Demo](img-hand-gesture.jpeg)
 
 ---
